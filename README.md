@@ -76,5 +76,3 @@ Sigue los pasos a continuación para configurar y ejecutar este proyecto en tu e
    
 5. **Ejecuta la aplicación** abriendo el archivo `index.php` en tu navegador o apuntando tu servidor web al directorio del proyecto.
 
-## 📂 Estructura del Proyecto
-
